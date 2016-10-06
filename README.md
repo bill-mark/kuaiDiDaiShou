@@ -1,5 +1,5 @@
  *  #简介：
-*   该项目主要用于学习Ionic开发，采用大了大部分Ionic组件，和图片选择、拍照、文件上传、系统浏览器等。
+*   采用IOCIC2实现的一款web app，借用了案例的一些思路。
 
 *   #项目截图：
 1. ![](https://github.com/DaLeiGe/Ionic-shundai/blob/master/readmeimg/1.PNG)
